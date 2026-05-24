@@ -10,7 +10,7 @@ I am passionate about working with data and building projects using SQL, Excel, 
 - Python for Data Analysis
 - Data Engineering fundamentals
 
-Skills
+## Skills
 - SQL
 - Excel
 - Power BI
@@ -19,12 +19,6 @@ Skills
 - Data Cleaning
 - Data Visualization
 
-## Projects
-- Sales Dashboard Analysis
-- SQL Business Case Studies
-- Data Cleaning Projects
-- Excel Analytics Dashboard
-
 ## Goals for 2026
 - Get a Data Analyst Internship
 - Build 10+ real-world projects
@@ -32,4 +26,4 @@ Skills
 - Learn Cloud & Data Engineering
 
 ## Connect With Me
-LinkedIn: your-linkedin
+LinkedIn: www.linkedin.com/in/krishchaurasia
