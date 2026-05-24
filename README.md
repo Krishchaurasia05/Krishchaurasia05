@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, I'm Krish 👋
 
-<!--
-**Krishchaurasia05/Krishchaurasia05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst & Data Engineer
 
-Here are some ideas to get you started:
+I am passionate about working with data and building projects using SQL, Excel, Power BI, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning:
+- Advanced SQL
+- Data Visualization
+- Python for Data Analysis
+- Data Engineering fundamentals
+
+Skills
+- SQL
+- Excel
+- Power BI
+- Python
+- Pandas
+- Data Cleaning
+- Data Visualization
+
+## Projects
+- Sales Dashboard Analysis
+- SQL Business Case Studies
+- Data Cleaning Projects
+- Excel Analytics Dashboard
+
+## Goals for 2026
+- Get a Data Analyst Internship
+- Build 10+ real-world projects
+- Learn ETL pipelines
+- Learn Cloud & Data Engineering
+
+## Connect With Me
+LinkedIn: your-linkedin
