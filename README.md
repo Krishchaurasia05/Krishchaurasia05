@@ -1,29 +1,25 @@
-## Hi, I'm Krish 👋
+# Krish Chaurasia — Data Analyst | SQL Developer
 
-## Aspiring Data Analyst & Data Engineer
+Data Analyst with hands-on experience in SQL Data Warehousing, 
+ETL pipelines, and Power BI dashboards.
+Available for full-time roles immediately.
 
-I am passionate about working with data and building projects using SQL, Excel, Power BI, and Python.
+## Projects
 
-## Currently learning:
-- Advanced SQL
-- Data Visualization
-- Python for Data Analysis
-- Data Engineering fundamentals
+🏗️ SQL Data Warehouse — Medallion Architecture
+Built end-to-end 3-layer data warehouse using SQL Server.
+ETL pipelines, data modeling, quality checks.
+→ github.com/Krishchaurasia05/SQL-Data-Warehouse-Project
 
-## Skills
-- SQL
-- Excel
-- Power BI
-- Python
-- Pandas
-- Data Cleaning
-- Data Visualization
+📊 Sales Analytics — EDA & Power BI Dashboard
+EDA on 29M+ revenue data. Interactive Power BI dashboard
+cutting reporting time by ~45%.
+→ github.com/Krishchaurasia05/Sales-Analytics-Project-
 
-## Goals for 2026
-- Get a Data Analyst Internship
-- Build 10+ real-world projects
-- Learn ETL pipelines
-- Learn Cloud & Data Engineering
+## Tech Stack
+SQL Server · T-SQL · Power BI · DAX · ETL · 
+Medallion Architecture · Advanced Excel · GitHub
 
-## Connect With Me
-LinkedIn: www.linkedin.com/in/krishchaurasia
+## Connect
+LinkedIn: linkedin.com/in/krishchaurasia
+Email: krishchaurasia244@gmail.com
