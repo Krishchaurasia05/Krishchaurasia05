@@ -1,6 +1,6 @@
-# Krish Chaurasia — Data Analyst | Data Engineer| SQL Developer
+# Krish Chaurasia — Data Engineer | Data Analyst| SQL Developer
 
-Data Analyst with hands-on experience in SQL Data Warehousing, 
+Data Analyst and Data Engineer with hands-on experience in SQL Data Warehousing, 
 ETL pipelines, and Power BI dashboards.
 Available for full-time roles immediately.
 
